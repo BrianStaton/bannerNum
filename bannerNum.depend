@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1577885347 source:/home/bruno/Workspace/bannerNum/main.c
+	"bannerNum.h"
+
+1577885564 /home/bruno/Workspace/bannerNum/bannerNum.h
+	<stdint.h>
+
